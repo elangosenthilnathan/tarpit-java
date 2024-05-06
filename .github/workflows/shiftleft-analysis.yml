@@ -1,4 +1,4 @@
-name: Qwiet AI
+name: Qwiet AI CI
 
 on:
   pull_request:

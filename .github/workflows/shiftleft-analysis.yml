@@ -1,4 +1,4 @@
-name: Qwiet
+name: Qwiet AI
 
 on:
   pull_request:
